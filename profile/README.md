@@ -1,55 +1,64 @@
 # ETHRAEON Systems
 
-Enterprise constitutional runtime, evidence control, and execution layer for governed AI.
+**Constitutional runtime and evidence-control infrastructure for governed AI systems.**
 
-ETHRAEON provides the runtime infrastructure that lets organizations operate AI capabilities with policy expressed as code, evidence produced as a first-class output, and human authority preserved at the actions that require accountable authorship. It is not a chatbot, a model wrapper, or a generic agent framework. AI interfaces and coding agents are tools that operate inside the architecture.
+ETHRAEON helps organizations operate AI with policy expressed as code, evidence produced as a first-class output, and accountable human authority retained at consequential actions.
 
-## Ordering
-
-Governance, then Execution, then Intelligence. Governance is the foundational architecture. The system does significantly more on top of it.
+Governance, then Execution, then Intelligence.
 
 ## What we build
 
-- Constitutional runtime and evidence control layer AND kit framework orchestration (10-kit deployment), with fail-closed defaults
-- Append-only, hash-linked evidence chain
-- Substrate-independent orchestration across cloud edge, sovereign infrastructure, and CI
-- Post-quantum cryptography treated as a present engineering requirement
-- Human-in-the-loop design for sending, signing, publishing, and financial-consequence acts
+- Fail-closed constitutional runtime controls
+- Append-only, hash-linked evidence records
+- Vendor-independent orchestration across cloud edge and sovereign infrastructure
+- Public integration contracts and reference implementations
+- Private deployment and operator surfaces for organizational contexts
+- Research and implementation guidance for evidence-controlled AI operation
 
-## Category positioning
+ETHRAEON is not a chatbot, a model wrapper, or a claim that general or superintelligence has been achieved.
 
-AGI-class, ASI-class, SGI-category governance infrastructure: a constitutional, vendor-agnostic, sovereign-capable substrate for autonomous AI orchestration. This describes the architecture. It is not a claim that general or super intelligence has been achieved.
+## Open-source hub
+
+This organization is the public, non-IP collaboration boundary for ETHRAEON Systems.
+
+- [`ethraeon-web`](https://github.com/Ethraeon-Systems/ethraeon-web): public documentation, route maps, and integration guidance
+- [`ethraeon-core-services`](https://github.com/Ethraeon-Systems/ethraeon-core-services): public-safe service contracts, SDK interfaces, and observability templates
+- [`ethraeon-demo-hub`](https://github.com/Ethraeon-Systems/ethraeon-demo-hub): cleared demonstrations and reference integrations
+- [`.github`](https://github.com/Ethraeon-Systems/.github): organization profile and community metadata
+
+Protected runtime internals, private operational evidence, recipient material, credentials, and patent-claim implementations are deliberately excluded from this public boundary. What is present is real; absent components are not implied as shipped.
 
 ## Patent estate
 
-- 16 filed U.S. provisional filings
+- 16 filed U.S. provisional applications
 - 73 technical specifications
 - 9 patent families
 
-These categories are distinct and are not collapsed. 73 is the specification count, not the number of filed patents. Portfolio inspection is available under MNDA.
+The categories are distinct. Filing is not a patent-grant claim. Deeper portfolio inspection is available under MNDA.
 
-## Valuation lanes (stated figures, never collapsed to one number)
+## Engineering posture
 
-- IP replacement value: approximately 883.3M USD (P90, internal valuation model)
-- Enterprise framing: 14B+ USD (forward framing, not a present fact)
-- Total addressable market: approximately 251B USD
+- Human-sovereign and fail-closed by design
+- Evidence required for meaningful state changes
+- Direct provider control paths for production operations
+- Third-party certifications may be commissioned for a customer engagement; no unearned certification is claimed here
 
-These are ETHRAEON's own stated figures from internal valuation work. They are not independently audited or established values, and the lanes are non-additive.
+## Explore
 
-## Verified engineering posture
+- [Enterprise overview](https://ethraeon.ai/enterprise/)
+- [Products](https://ethraeon.ai/products/)
+- [Pricing and quotations](https://ethraeon.ai/pricing/)
+- [Research library](https://papers.ethraeon.ai/)
+- [Request a briefing](https://ethraeon.ai/request-briefing/)
 
-GitHub Enterprise verified. Self-certified operational standards (honest self-certification tier; no third-party audit is claimed).
+## Leadership and contact
 
-## Leadership
-
-S. Jason Prohaska, CEO. Based in Bologna, Italy.
-
-Contact: [jason@ethraeon.systems](mailto:jason@ethraeon.systems)
-
-Deeper source-first inspection of the runtime, patent estate, and governance chain is available under MNDA.
+S. Jason Prohaska, Founder and CEO, Bologna, Italy<br>
+[ORCID 0009-0008-8254-8411](https://orcid.org/0009-0008-8254-8411)<br>
+[jason@ethraeon.systems](mailto:jason@ethraeon.systems)
 
 ---
 
-Humanitas ante Machinam.
+Humanitas ante Machinam. Humanity before the machine.
 
-Copyright 2025-2026 S. Jason Prohaska. All Rights Reserved.
+Copyright 2025-2026 S. Jason Prohaska. All rights reserved.
