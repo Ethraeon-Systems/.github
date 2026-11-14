@@ -167,11 +167,12 @@ View systems and substrate details
 - ['Engineering Guide'] (https://ethraeon.ai/engineering-guide/)
 
 ## Patent Portfolio
-- 75 complete litigation ready technical specifications
-- 9 patent families
+- 79 provisional applications to be refiled
+- 79 complete litigation ready technical specifications
+- ten families
 
 ## Portfolio review is available strict MNDA.
-['Summary 75'] (https://verify.ethraeon.ai/patents/)
+['Summary'] (https://verify.ethraeon.ai/patents/)
 
 ## Engineering (summary)
 - People led fail-closed architectures by design
