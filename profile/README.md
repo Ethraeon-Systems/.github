@@ -198,8 +198,9 @@ Domains, demonstrations, SaaS, white-label, subscriptions, pricing and more.
 
 ## Patent portfolio
 
-- 75 complete, litigation-ready technical specifications
-- 9 patent families
+- 79 provisional applications, all to be refiled
+- 79 complete, litigation-ready technical specifications
+- Ten families
 - Portfolio review under strict MNDA: [summary](https://verify.ethraeon.ai/patents/)
 
 ## Engineering
