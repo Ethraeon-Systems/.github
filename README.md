@@ -2,10 +2,42 @@
 
 This organization footprint is the public, non-IP collaboration portal for ETHRAEON Systems.
 Public details can be found here for the open source community.
-[`Organization.github`](https://github.com/Ethraeon-Systems/.github)
-['Inquiries'](https://contact.ethraeon.ai/)
+https://github.com/Ethraeon-Systems/.github
+https://contact.ethraeon.ai/
 
-## ETHRAEON is a category leading enterprise built for AGI / ASI class and post Quantum solutions
+## ETHRAEON 
+A category leading enterprise built for AGI / ASI class and post Quantum solutions.
+Enterprise & creative AI software deployable on your own infrastructure.
+
+## About Us
+ETHRAEON is a premier native AI platform delivering enterprise software, agentic solutions, and distributed compute designed for scalable intelligent systems. Built upon a shared constitutional architecture, our technology elevates human creativity and ingenuity.
+
+## Flexible Delivery Models
+We provide software subscriptions, system licensing, and custom co-developed solutions tailored to your needs.
+
+## Core Capabilities & Features
+
+# Multi-Agent Orchestrator: 
+Efficiently delegates tasks and maintains context flow across autonomous agents.
+
+# Compliance Engine: 
+Validates outputs against your specified regulatory standards and internal governance policies.
+
+# VividForge for Creators: 
+Powers creative workflows with dedicated production tools, world-building engines, and original game and film development.
+
+# Deployment & Enterprise Integration
+Deploy ETHRAEON seamlessly within our cloud, on-premises, or inside air-gapped environments. 
+We offer complete white-label software, enterprise integration, and specialized cloud engineering.
+
+# Get Started
+Schedule a briefing to discuss your build and deployment requirements at ethraeon.ai
+contact@ethraeon.systems 
+
+----
+
+**ADDTIONAL DETAILS**
+
 Sovereign Recursive Intelligence (SRI), is a human-anchored continuity foundational architectural component that preserves intent, constraints, evidence, authorship, governance, and accountability across distributed machine systems while maintaining absolute human decisions and human authority.
 
 **AI governance and policy expressed as**
