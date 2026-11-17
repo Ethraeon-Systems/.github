@@ -1,8 +1,11 @@
 # ETHRAEON-SYSTEMS Open-source hub
 
-This organization footprint is the public, non-IP collaboration portal for ETHRAEON Systems.
+This organization footprint is a public, non-IP collaboration portal.
+
 Public details can be found here for the open source community.
+
 https://github.com/Ethraeon-Systems/.github
+
 https://contact.ethraeon.ai/
 
 ## ETHRAEON 
