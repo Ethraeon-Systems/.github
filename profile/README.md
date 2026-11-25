@@ -97,6 +97,14 @@ Humanitas Ante Machinam (Humanity first)
 - Custom dedicated deployments, partnerships and implementations
 - Non-destructive middleware
 
+## Repositories
+
+- [Ethraeon-Systems/.github](https://github.com/Ethraeon-Systems/.github): organization profile repository
+- [Ethraeon-Systems/ethraeon-core-services](https://github.com/Ethraeon-Systems/ethraeon-core-services): a public service layer. API contracts, SDK interfaces, public orchestration scaffolds and observability templates.
+- `Ethraeon-Systems/ethraeon-canonical-app`: the ETHRAEON application
+- `Ethraeon-Systems/ethraeon-master-repo-ecosystems`: the ETHRAEON master repository of system specifications
+- [Enterprise Open Source portal](https://github.com/enterprises/ethraeon-systems)
+
 ## Explore
 
 Domains, demonstrations, SaaS, white-label, subscriptions, pricing and more.
@@ -119,7 +127,7 @@ Domains, demonstrations, SaaS, white-label, subscriptions, pricing and more.
 ## Verify portals
 
 - [Apps and builds registry](https://verify.ethraeon.ai/apps/)
-- [Compliance registry](https://compliance.ethraeon.ai/)
+- [Compliance registry](https://ethraeon.ai/compliance/)
 - [Verify demonstration](https://verify.ethraeon.ai/)
 - [CIGS standards](https://verify.ethraeon.ai/cigs/)
 - [SCL, Sovereign Control Layer](https://verify.ethraeon.ai/scl/)
@@ -156,7 +164,7 @@ Domains, demonstrations, SaaS, white-label, subscriptions, pricing and more.
 - [PRISM synthetic personas and market research engine](https://verify.ethraeon.ai/products/prism.html)
 - [SOVRIN intelligence platform](https://verify.ethraeon.ai/products/sovrin.html)
 - [MYTHOS ethical reflection layer](https://verify.ethraeon.ai/products/mythos.html)
-- [PRAXIS-CC for regulated environments](https://verify.ethraeon.ai/products/praxis-cc.html)
+- PRAXIS-CC for regulated environments
 - [ETHRAEON BUBBLE multi-tenant container](https://verify.ethraeon.ai/products/bubble.html)
 - [Enterprise Suite federated multi-tenant solution](https://verify.ethraeon.ai/products/enterprise-suite.html)
 - [ARIA, NIST framework federated solution](https://verify.ethraeon.ai/products/aria/)
@@ -201,7 +209,7 @@ Domains, demonstrations, SaaS, white-label, subscriptions, pricing and more.
 - 79 provisional applications, all to be refiled
 - 79 complete, litigation-ready technical specifications
 - Ten families
-- Portfolio review under strict MNDA: [summary](https://verify.ethraeon.ai/patents/)
+- Portfolio review under strict MNDA
 
 ## Engineering
 
